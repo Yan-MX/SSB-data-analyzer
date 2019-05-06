@@ -1,2 +1,4 @@
 # SSB-data-analyzer
-data analyzer made in python to handle SSB data
+Data analyzer made in python to handle SSB data.
+
+The plan is to get data from https://www.ssb.no, and use Python to analyze the data and produce some useful charts.
